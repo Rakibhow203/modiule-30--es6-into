@@ -22,4 +22,16 @@ const multiply = (num1, num2) => num1 * num2;
 // const sum = add4(4,5,6,7)
 // console.log(sum);
 const mult = multiply(3, 12)
-console.log(mult)
+// console.log(mult);
+
+
+
+const add5 = (num5, num6, num7, num8) => num5 + num6 + num7 + num8;
+const sum = add5(43, 55, 66, 443);
+// console.log(sum);
+
+
+
+
+
+
